@@ -2277,3 +2277,12 @@ svg {
   height: fit-content;
   padding: 15px;
 }
+
+
+.d3-icon {
+  height: 150px;
+    color: #f7974e;
+    padding: 15px;
+    width: 150px;
+    font-size: 800%;
+}
