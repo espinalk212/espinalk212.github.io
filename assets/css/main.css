@@ -2292,3 +2292,8 @@ svg {
   padding-left: 25px;
   font-size: 16px;
 }
+
+.vid {
+  text-decoration: none;
+  border-bottom: none;
+}
