@@ -2286,3 +2286,9 @@ svg {
     width: 150px;
     font-size: 800%;
 }
+
+.extras {
+  padding-top: 20px;
+  padding-left: 25px;
+  font-size: 16px;
+}
