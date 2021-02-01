@@ -2254,7 +2254,7 @@ button:disabled,
 
 /* Features */
 .features {
-  display: -moz-flex;
+  /* display: -moz-flex;
   display: -webkit-flex;
   display: -ms-flex;
   display: flex;
@@ -2263,7 +2263,7 @@ button:disabled,
   -ms-flex-wrap: wrap;
   flex-wrap: wrap;
   margin: 0 0 2em -3em;
-  width: calc(100% + 3em);
+  width: calc(100% + 3em); */
 }
 .features article {
   -moz-align-items: center;
