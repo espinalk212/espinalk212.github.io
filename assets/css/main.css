@@ -1823,16 +1823,16 @@ input[type='radio'] + label:before {
   width: 100%;
 }
 
-a.image {
+image {
   overflow: hidden;
 }
-a.image video {
+.image video {
   -moz-transition: -moz-transform 0.2s ease;
   -webkit-transition: -webkit-transform 0.2s ease;
   -ms-transition: -ms-transform 0.2s ease;
   transition: transform 0.2s ease;
 }
-a.image:hover video {
+.image:hover {
   -moz-transform: scale(1.075);
   -webkit-transform: scale(1.075);
   -ms-transform: scale(1.075);
